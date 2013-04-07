@@ -1,7 +1,10 @@
-bomber (4:4.10.2-1) UNRELEASED; urgency=low
+bomber (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
   * Team upload.
+
+  [ Maximiliano Curia ]
+  * Add manpage generated with help2man.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 07 Apr 2013 17:32:48 +0200
 

@@ -4,3 +4,14 @@ include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
 .PHONY: override_dh_auto_test
 
+override_dh_auto_configure:
+	$(overridden_command) -- -DBIN_INSTALL_DIR=/usr/games
+
+override_dh_auto_install:
+	$(overridden_command) --destdir=debian/tmp
+	CMD=debian/tmp/usr/games/bomber; \
+	help2man \
+		--version-string="$$($$CMD --version | sed -n '/Bomber/s/://p')" \
+		-n "$$(sed -n '/^Description:/s/^[^:]*:[[:space:]]*//p' debian/control)" \
+		$$CMD > debian/man/out/bomber.1
+
