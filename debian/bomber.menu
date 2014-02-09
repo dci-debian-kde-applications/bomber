@@ -1,0 +1,7 @@
+?package(bomber):\
+	needs="x11"\
+	section="Games/Action"\
+	hints="KDE"\
+	title="Bomber"\
+	icon32x32="/usr/share/pixmaps/bomber.xpm"\
+	command="/usr/games/bomber"
