@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/bomber.git
 Package: bomber
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter
+Recommends: khelpcenter4
 Description: arcade spaceship game
  Bomber is a game where you fly a spaceship and attempt to bomb the buildings
  below you. Each pass the spaceship makes, it gets lower and lower. If you've
