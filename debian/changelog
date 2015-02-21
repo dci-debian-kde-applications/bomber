@@ -1,4 +1,4 @@
-bomber (4:14.12.2-1~) UNRELEASED; urgency=medium
+bomber (4:14.12.2-1) experimental; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Remove myself from Uploaders.
@@ -7,7 +7,7 @@ bomber (4:14.12.2-1~) UNRELEASED; urgency=medium
   * New upstream release (14.12.2).
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 07:38:40 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 11:04:15 +0100
 
 bomber (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
