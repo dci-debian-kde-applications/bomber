@@ -1,3 +1,9 @@
+bomber (4:15.04.3-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 02 Jul 2015 16:56:04 +0000
+
 bomber (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
