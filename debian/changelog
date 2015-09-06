@@ -8,6 +8,31 @@ bomber (4:15.08.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Sun, 06 Sep 2015 13:55:21 +0200
 
+bomber (4:15.08.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Ubuntu <ubuntu@ip-10-170-33-178.ec2.internal>  Wed, 26 Aug 2015 16:12:53 +0100
+
+bomber (4:15.07.90-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 08:56:20 +0100
+
+bomber (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+  * New upstream release
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:21:27 +0200
+
 bomber (4:14.12.3-1) experimental; urgency=medium
 
   * New upstream release (14.12.3).
