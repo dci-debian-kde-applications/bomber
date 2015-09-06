@@ -5,26 +5,22 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-License: GPL-2+
-Copyright: 2007-2008, John-Paul Stanford <jp@stanwood.org.uk>
-
-Files: doc/*
-License: GFDL-1.2+
-Copyright: 2007-2008, John-Paul Stanford <jp@stanwood.org.uk>
-
-Files: src/*.cpp
-       src/*.h
-License: LGPL-2+
-Copyright: 2007-2008, John-Paul Stanford <jp@stanwood.org.uk>
-
-Files: src/bomberwidget.cpp
-       src/bomberwidget.h
-Copyright: 2007-2008, John-Paul Stanford <jp@stanwood.org.uk>
+Copyright: 1991, Free Software Foundation, Inc
+           2007-2008, John-Paul Stanford <jp@stanwood.org.uk>
            2010, Stefan Majewsky <majewsky@gmx.net>
 License: LGPL-2+
 
+Files: COPYING
+       src/bomber.appdata.xml
+Copyright: 1989-1991, Free Software Foundation, Inc
+License: GPL-2+
+
+Files: doc/*
+Copyright: 2007-2008, John-Paul Stanford <jp@stanwood.org.uk>
+License: GFDL-1.2+
+
 Files: debian/*
-Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Copyright: 2007-2015, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 License: GPL-2+
 
 License: GPL-2+
@@ -40,9 +36,9 @@ License: GPL-2+
  .
  You should have received a copy of the GNU General Public License
  along with this program. If not, see <http://www.gnu.org/licenses/>
- .
+ --
  On Debian systems, the complete text of the GNU General Public
- License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+ License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
 
 License: GFDL-1.2+
  Permission is granted to copy, distribute and/or modify this document
@@ -53,7 +49,7 @@ License: GFDL-1.2+
  Free Documentation License".
  .
  On Debian systems, the complete text of the GNU Free Documentation
- License version 1.2 can be found in "/usr/share/common-licenses/GFDL-1.2".
+ License version 1.2 can be found in `/usr/share/common-licenses/GFDL-1.2'.
 
 License: LGPL-2+
  This library is free software; you can redistribute it and/or
@@ -71,4 +67,4 @@ License: LGPL-2+
  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  .
  On Debian systems, the complete text of the GNU Library General Public
- License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+ License version 2 can be found in `/usr/share/common-licenses/LGPL-2'.
