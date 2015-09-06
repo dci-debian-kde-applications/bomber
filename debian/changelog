@@ -1,10 +1,11 @@
-bomber (4:15.04.3-1~) UNRELEASED; urgency=medium
+bomber (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.1).
   * New upstream release (15.04.3).
+  * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:12:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 06 Sep 2015 13:55:21 +0200
 
 bomber (4:14.12.3-1) experimental; urgency=medium
 
