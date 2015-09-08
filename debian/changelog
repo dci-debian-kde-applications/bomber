@@ -1,4 +1,4 @@
-bomber (4:15.08.0-1~) UNRELEASED; urgency=medium
+bomber (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.1).
@@ -7,7 +7,7 @@ bomber (4:15.08.0-1~) UNRELEASED; urgency=medium
   * Update build dependencies.
   * Update copyright file.
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 06 Sep 2015 13:55:21 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 13:44:07 +0200
 
 bomber (4:15.08.0-0ubuntu1) wily; urgency=medium
 
