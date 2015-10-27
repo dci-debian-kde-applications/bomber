@@ -1,6 +1,11 @@
+bomber (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Vivid backport. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 27 Oct 2015 02:55:34 +0000
+
 bomber (4:15.08.2-0ubuntu1) wily; urgency=medium
 
-  * Vivid backport
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 11:48:08 +0100
