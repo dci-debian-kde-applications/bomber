@@ -1,3 +1,9 @@
+bomber (4:15.12.1-0ubuntu2) xenial; urgency=medium
+
+  * No-change rebuild against libkf5kdegames7
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 13 Mar 2016 21:56:11 +0100
+
 bomber (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]
