@@ -1,3 +1,11 @@
+bomber (4:15.12.3-1~1.gbpf48ccc) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f48ccc3d7450306ecefacdc239eafd004721b802 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:53:25 +0200
+
 bomber (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
