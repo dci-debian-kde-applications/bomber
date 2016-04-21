@@ -1,10 +1,11 @@
-bomber (4:15.12.3-1~1.gbpf48ccc) UNRELEASED; urgency=medium
+bomber (4:16.04.0-1~1.gbp2b9ea7) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @f48ccc3d7450306ecefacdc239eafd004721b802 **
+  ** SNAPSHOT build @2b9ea704a069a9d151571d28a8b9eaafaf2e3b27 **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:53:25 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:50:12 +0200
 
 bomber (4:15.12.0-1) experimental; urgency=medium
 
