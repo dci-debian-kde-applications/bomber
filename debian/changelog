@@ -1,6 +1,6 @@
-bomber (4:16.04.0-1~2.gbp05959b) UNRELEASED; urgency=medium
+bomber (4:16.04.1-1~1.gbp9e4f28) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @05959b863db646f24c877ad1a3fb97835f954f26 **
+  ** SNAPSHOT build @9e4f282a82f5fc1b81246c4bcf096fca46e171b4 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @2b9ea704a069a9d151571d28a8b9eaafaf2e3b27 **
@@ -13,8 +13,9 @@ bomber (4:16.04.0-1~2.gbp05959b) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 24 Apr 2016 20:12:21 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:50:22 +0200
 
 bomber (4:15.12.0-1) experimental; urgency=medium
 
