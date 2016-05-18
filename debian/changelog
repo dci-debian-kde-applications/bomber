@@ -1,3 +1,9 @@
+bomber (4:16.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:10:57 +0200
+
 bomber (4:16.04.0-1~1.gbp2b9ea7) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @2b9ea704a069a9d151571d28a8b9eaafaf2e3b27 **
