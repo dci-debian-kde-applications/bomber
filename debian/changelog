@@ -1,3 +1,11 @@
+bomber (4:16.08.0-1~1.gbpc3aae1) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c3aae164f4df86a41aff45025c937850d43d3416 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:50:15 +0200
+
 bomber (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
