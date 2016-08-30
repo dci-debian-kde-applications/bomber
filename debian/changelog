@@ -1,10 +1,11 @@
-bomber (4:16.08.0-1~1.gbpc3aae1) UNRELEASED; urgency=medium
+bomber (4:16.08.0-1~2.gbp2def29) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c3aae164f4df86a41aff45025c937850d43d3416 **
+  ** SNAPSHOT build @2def29e6744d5f962781de9425cd6f4d54033d7a **
 
   * UNRELEASED
+  * Update docs file
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:50:15 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 30 Aug 2016 16:43:15 +0200
 
 bomber (4:16.04.1-1) unstable; urgency=medium
 
