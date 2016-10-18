@@ -1,17 +1,13 @@
-bomber (4:16.08.1-1~1.gbpd02e52) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @d02e5262eb5960b59685ed238077ced87a2e4a63 **
+bomber (4:16.08.1-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @2def29e6744d5f962781de9425cd6f4d54033d7a **
-
-  * UNRELEASED
+  * New upstream release (16.08.1)
   * Update docs file
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:50:33 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:03:02 +0200
 
 bomber (4:16.04.1-1) unstable; urgency=medium
 
