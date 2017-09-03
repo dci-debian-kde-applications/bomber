@@ -37,6 +37,8 @@ Package: bomber
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: arcade spaceship game
  Bomber is a game where you fly a spaceship and attempt to bomb the buildings
  below you. Each pass the spaceship makes, it gets lower and lower. If you've
