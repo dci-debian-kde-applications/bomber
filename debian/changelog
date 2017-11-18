@@ -1,4 +1,6 @@
-bomber (4:17.08.3-1~1) UNRELEASED; urgency=medium
+bomber (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.0)
@@ -19,7 +21,7 @@ bomber (4:17.08.3-1~1) UNRELEASED; urgency=medium
     everything to the final location
     - drop bomber.install, no more useful now
 
- -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 10:40:12 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 12:26:14 +0100
 
 bomber (4:17.08.0-0neon) xenial; urgency=medium
 
